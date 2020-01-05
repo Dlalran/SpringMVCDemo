@@ -1,0 +1,31 @@
+shift + enter 下行新建空白行
+ctrl + shift + enter 上行新建空白行
+ctrl + alt + ↑/↓ 在上下方复制本行
+ctrl + d 删除本行
+ctrl + shift + delete 删除本行光标后内容
+alt + l 打开提示
+alt + ↑/↓ 上下移动本行
+ctrl + shift + o 删除无用包
+Ctrl + [ / ] 快速移至方法开始/结尾
+Alt+ Shift + L 快速新建变量并重命名
+Alt + Enter 显示提示
+Ctrl + W 选择整个单词
+Ctrl + Alt + T 以...将选定代码块包围
+Ctrl + Shift + F11 添加书签（断点）
+Ctrl+ Shift + F12 最大化编辑窗口
+Ctrl + Shift + F10 运行
+Alt + Insert 生成
+
+ctrl + f  搜索关键字
+ctrl + q 回到上次编辑的地方
+alt + ←/→ 前进 后退
+Ctrl + Alt + ←/→ 下一/上一标签页
+
+ctrl + shift + t 搜索类并打开源码
+ctrl + o 列出本类属性 方法 再按一次查看父类
+ctrl + t 打开接口实现、继承类
+Ctrl + Shift + Space 查看方法声明
+
+ctrl + e 跳转到已打开的标签页
+ctrl +shift + r 跳转到任意文件
+
